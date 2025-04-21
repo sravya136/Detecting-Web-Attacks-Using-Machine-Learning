@@ -3,7 +3,7 @@ Our Web Attack Detection System addresses these gaps by leveraging an unsupervis
 and flag deviations indicative of attacks. The model is trained solely on benign flows from the CICIDS2017 
 
 
-#ABSTRACT 
+# ABSTRACT 
 
 The increasing reliance on web applications in every domain—from ecommerce to finance—has made them prime targets for cyber adversaries. Common attack vectors such as Distributed Denial of Service (DDoS), SQL Injection (SQLi), and CrossSite Scripting (XSS) exploit application-layer vulnerabilities to disrupt services, exfiltrate data, or compromise user trust. Traditional security appliances (firewalls, signaturebased Intrusion Detection Systems) and rulebased scanners struggle to keep pace with the constantly evolving threat landscape, often producing high false positive rates or failing to detect novel, “zeroday” exploits. 
 
